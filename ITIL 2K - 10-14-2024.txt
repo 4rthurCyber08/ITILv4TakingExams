@@ -1,0 +1,198 @@
+ITIL
+10/14/2024
+
+Open and run itil vm
+  #check vm ip
+  User: root
+  Pass: C1sc0123
+    ip addr
+
+open ip (ex. 192.168.108.143:8069)
+user: itil@rivanschool.com
+pass: C1sc0123
+
+Service Management
+http://192.168.108.143/otrs/index.pl
+root@localhost
+C1sc0123
+
+Customer Management
+http://192.168.108.143/otrs/customer.pl
+user1
+C1sc0123
+
+---------------------------------------------
+@ http://192.168.108.143:8069
+Apps Tab
+Install 3 apps (Any)
+
+~$
+PRODUCTS & SERVICES (VALUE)
+  > Political Factor: Organization & people
+      Sales vs Engineering
+      "focus sa benta kesa sa machina"
+
+  > Legal Factor: Partners & supplies
+      Outsource problems (Language barrier, etc,.)
+
+  > Economical Factor: Information & technology
+  
+  > Technological Factor: Value streams & processes
+  
+Why did we go from ITILv3 to ITIL4?
+  > Lean Methodology
+  > Agile Scrum/Prince Agile Methodology
+  > Waterfall Methodology
+  > DevOps Methodology
+  > Learn to use which method in different situations
+
+RULE: A business without a competitor has no Value
+
+Lean Methodology
+  Know the word "VALUE"
+    What do you provide in the industry
+  Value Focus
+
+Agile Development
+  "Do first, Sissy later"
+> Continiuous Cycles
+> Small, high-functioning, collaborative teams
+> Multiple Methodologies
+> Flexible/continious evolution
+> Customer involvement
+    Sprint 1
+    Sprint 2
+    Sprint 3
+  "Be an agile boss: Check up on your team not more than 5 mins"
+
+Waterfall
+> Sequent/linear stages
+> Upfront planning and in-depth documentation
+> Contrast Negotiation
+> Best for simple, unchanging projects
+> Close project manager involvement
+
+---
+Devops
+  Google: AWS, GCP, AZURE
+---
+Key Concepts and definitions in ITSM
+  "MAKE PEOPLE THINK YOU ARE VERY SMART!"
+
+In the world of business
+  > Alighnment: agreement, "call me a reach an alighnment"
+  > Analytics: data, "pls give methe analytics on customer payments"
+  > Bandwidth: willingness to do, "do you have the bandwidth to get this done tonight?"
+  > Drill Down: figure out how this messed up.
+  > Impact
+
+--
+Call Center Lab
+
+become a CEO:
+5 steps to ITIL powered business:
+Step1: Service Strategy
+Step2: Service Design
+Step3: Service Transition
+Step4: Service Operation
+Step5: Continual Service Improvement
+
+Step1: Service Strategy (In your company's website)
+  Mission:
+  Vision:
+
+-------
+The need for service management
+  Every organization is a service organization
+
+-------
+Github
+https://github.com/rivan16/itilv4
+
+Odoo
+Open Website Builder App (Create your website)
+-------
+Value
+"Delivering something is easy, delivering value is hard."
+
+-------
+Value is...Enabled, Facilitated, Co-created!
+
+
+odo index.pl
+Faq
+Category management
+  >Create
+    >Call Center Troubleshoot
+    >Call Center Configure
+Faq
+  >New
+CMDB
+  >Computer
+
+ITIL Rule
+"Everything should be categorized"
+"If it's not documented, it never existed"
+
+-------
+OTRS
+>Service
+
+if no service
+
+Admin
+  Services
+    Create Service
+
+-------
+Value - the percieved benefits, usefulness, and importance of something
+  Provider - SAP - Office 365 - Microsoft
+  Business Resiliance
+
+Value and outcome
+  Outsource - communications
+
+------
+Inhouse or outsource?
+
+Ideal Task to achieve
+>Risk management plan
+>Utility and Warranty
+
+------
+Organization and People
+>The most important element of ITSM is the people that make up the organization!
+>Organization must provide training and knowledge transfer
+>Everyone must have a shared vision of the organization
+>Everybody must have the same corporate culture
+>Each must know the roles and responsibilities of each one
+>Broad knowledge in some areas, specialized in some areas
+
+3.1.2 Do employers care about where you went to college?
+
+Shared Vision and Mission
+"Bond over shared emotional moments"
+
+Google Kanban Board
+
+------
+Admin 
+Ticket
+
+Service Management
+
+1. Organizations & People
+2. Information & Technology
+3. Partners & Supplies
+4. Value Streams & Processes
+
+Index.pl
+  Admin
+    >Queue
+    >Customer
+
+Ticketing
+Customer Management
+Customer User
+Service Management
+Customer User & Services
